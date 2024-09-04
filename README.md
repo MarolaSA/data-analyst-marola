@@ -6,10 +6,10 @@ Different types of analysis carried out for the two projects are detailed below:
  
 
 
-## [Project 1: Data Analytic Platform for the *University Canada West*](Docs/README.md)
+## [Project 1: Data Analytic Platform for the *University Canada West*](University_Canada_West/README.md)
 
 
 
-## [Project 2: Data Analytic Platform for the *City of Vancouver*](The City of Vancouver/README.md)
+## [Project 2: Data Analytic Platform for the *City of Vancouver*](The_City_of_Vancouver/README.md)
 
 
