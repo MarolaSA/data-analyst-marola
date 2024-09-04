@@ -6,7 +6,7 @@ Different types of analysis carried out for the two projects are detailed below:
  
 
 
-## [Project 1: Data Analytic Platform for the *University Canada West*](University Canada West/README.md)
+## [Project 1: Data Analytic Platform for the *University Canada West*](Docs/README.md)
 
 
 
