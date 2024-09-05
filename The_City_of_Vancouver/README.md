@@ -16,11 +16,20 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 
 ### Methodology
 
-1. Define the descriptive metric:
-  - “Records per Phone Channel Rate” has been defined considering the following formula:
-       Records per Phone Channel Rate=(Number of Phone Inquiries)/(Number of Received Inquiries)
+1. Define the descriptive metric
+
+   - “Records per Phone Channel Rate” has been defined considering the following formula:
+       #### Records per Phone Channel Rate=(Number of Phone Inquiries)/(Number of Received Inquiries)
 
 ![image](https://github.com/user-attachments/assets/1836bbb1-b067-4458-b06a-55714c13f791)
+
+2. Data Storage Design
+  - For the data storage design, the S3 AWS service will be accessed through which a bucket will be created.
+  - The bucket is a contain object that is flexible, durable, accessible from everywhere, and that has no capacity limit
+
+    #### **Data Storage Design in AWS**
+
+![image](https://github.com/user-attachments/assets/f6b2213f-3af0-4cf5-a4ba-a52b75cbd972)
 
 
 
