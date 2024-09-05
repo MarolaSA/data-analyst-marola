@@ -62,12 +62,9 @@ The dataset contains the records of the applications made for the PLAR process f
 
 ### Deliverables
 - Drawiou Design
-- DAP Implementation in AWS
+- Data Analytic Platform Implementation in Amazon Web Service
 - Written Report Phase 1
 - Written Report Phase 2  
-
-
-
 
 
 ## [Project 2: Data Analytic Platform for the *City of Vancouver*](The_City_of_Vancouver/README.md)
