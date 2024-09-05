@@ -16,7 +16,7 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 
 ### Methodology
 
-**1. Define the descriptive metric**
+**1. Descriptive Metric Definition**
 
    - “Records per Phone Channel Rate” has been defined considering the following formula:
        #### *Records per Phone Channel Rate=(Number of Phone Inquiries)/(Number of Received Inquiries)*
@@ -24,7 +24,9 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 ![image](https://github.com/user-attachments/assets/e7df1637-7ea4-4987-85bd-8542dc7b3d2e)
 
 
-**2. Data Storage Design**
+**2. Design and Implementation**
+
+#### **Data Storage Design**
   - For the data storage design, the S3 AWS service will be accessed through which a bucket will be created.
   - The bucket is a contain object that is flexible, durable, accessible from everywhere, and that has no capacity limit
 
@@ -36,33 +38,33 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 
    ![image](https://github.com/user-attachments/assets/18b6f37f-22f8-4c4f-b67a-46fb1ecdaa6a)
 
-**3. Data Set Preparation - Operational Environment**
+#### **Data Set Preparation - Operational Environment**
 
   - The dataset “311 inquiry volume 2024.xls” and “311 inquiry volume 2023.xls” obtained from The City of Vancouver will be used, each dataset has a total of 6 column names (headers) and 2277 rows (data items); however, for this analysis 500 rows (data items) was processed. 
 
-#### **Dataset Preparation**
+   #### **Dataset Preparation**
 
 ![image](https://github.com/user-attachments/assets/e458e994-b207-4209-acde-80cafc35c935)
 
-**4. Data Ingestion**
+#### **Data Ingestion**
 
   - To perform data ingestion, uploading data is required. In this case, the files “311 inquiry volume” for 2023 and 2024 have been uploaded.
 
-#### **Data Ingestion**
+   #### **Data Ingestion**
 
 ![image](https://github.com/user-attachments/assets/0c2d0618-0880-434f-8826-6fae3df19e35)
 
-**5. Data Pipeline Design and Implementation**
+#### **Data Pipeline Design and Implementation**
 
   - For the descriptive metric Records per Phone Channel Rate Data pipeline design, a linear data diagram has been developed in Draw.io; where the datasets are represented by tables and the processes are represented by circles. For the design, the backward design has been used, in which the operational dataset is located at the bottom and the summarized data is located at the top.
   - To implement the ETL pipeline for the descriptive metric Records per Phone Channel Rate, the diagram design made in Drawio has been taken as a reference since it will show clearly in detail the available information, the information needed, and the actions that should be executed to obtain the metric we want to analyze
 
-#### **Data Pipeline Design**
+   #### **Data Pipeline Design**
 
-![image](https://github.com/user-attachments/assets/d9df6838-ac71-41f1-96bf-64ec1cc92744)
+![image](https://github.com/user-attachments/assets/80f9d340-9ddf-4816-8ca5-2d02d246e847)
 
 
-#### **Data Pipeline Implementation**
+   #### **Data Pipeline Implementation**
 
 ![image](https://github.com/user-attachments/assets/d6de167d-67f4-487c-8249-ea04a9ac2b52)
 
@@ -70,13 +72,50 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 ![image](https://github.com/user-attachments/assets/3465e3c9-cb1d-49f5-a370-d8bd6658bfdd)
 
 
+**3. Descriptive Analysis and Metrics Result**
+
 Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
 
-#### **Metrics Result**
+#### **Descriptive Analysis and Metrics Result**
 
 ![image](https://github.com/user-attachments/assets/7aa3a1ac-f6b7-4cac-8d16-900fa43bcf32)
 
 
+**4. Data Visualization**
+
+With the content and structure ready, one way to present the results is to visualize the information and create a dashboard. The AWS service that allows visualizing the information is Amazon Quicksight, but for this case, the excel tool will be used to visualize the data.
+
+#### **Data Visualization**
+
+![image](https://github.com/user-attachments/assets/fc4e8580-a9bf-47b2-ba16-dcc9c419bae3)
+
+
+**5. Data Publishing**
+
+For data publishing, two servers were configured, one to share and show information internally and another to show information to external users.
+
+#### **Data Publishing via General Server**
+
+Allows sharing resources with other users of the same company
+
+![image](https://github.com/user-attachments/assets/93bcc230-e036-4a5d-9871-6056380abfe1)
+
+#### **Data Publishing via Web Server**
+
+Allows sharing results with users outside the company or a public audience
+
+![image](https://github.com/user-attachments/assets/500a9a29-5d7d-4413-af85-755db8b7dbab)
+
+
+**6. Inquiry Segmentation Per Channel**
+
+Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
+
+#### **Inquiry Segmentation per Channel**
+
+
+
+### Recommendations
 ## Data Wrangling
 ## Data quality control
 
