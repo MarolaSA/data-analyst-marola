@@ -74,7 +74,7 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 
 **3. Descriptive Analysis and Metrics Result**
 
-Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
+- Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
 
 #### **Descriptive Analysis and Metrics Result**
 
@@ -83,7 +83,7 @@ Finally, as a result of the pipeline, the results for the initially defined metr
 
 **4. Data Visualization**
 
-With the content and structure ready, one way to present the results is to visualize the information and create a dashboard. The AWS service that allows visualizing the information is Amazon Quicksight, but for this case, the excel tool will be used to visualize the data.
+- With the content and structure ready, one way to present the results is to visualize the information and create a dashboard. The AWS service that allows visualizing the information is Amazon Quicksight, but for this case, the excel tool will be used to visualize the data.
 
 #### **Data Visualization**
 
@@ -92,7 +92,7 @@ With the content and structure ready, one way to present the results is to visua
 
 **5. Data Publishing**
 
-For data publishing, two servers were configured, one to share and show information internally and another to show information to external users.
+- For data publishing, two servers were configured, one to share and show information internally and another to show information to external users.
 
 #### **Data Publishing via General Server**
 
@@ -124,7 +124,7 @@ Allows sharing results with users outside the company or a public audience
 
 **7. Insights and Findings**
 
-Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
+- Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
 
 
 
