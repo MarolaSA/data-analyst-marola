@@ -34,6 +34,12 @@ The dataset contains the records of the applications made for the PLAR process f
 
 ### Tools and Technologies
 
+#### Descriptive Analysis
+
+#### Data Wrangling
+
+#### Data Quality Control
+
 
 ### Deliverables
 
