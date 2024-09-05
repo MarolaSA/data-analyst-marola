@@ -44,7 +44,7 @@ The dataset contains the records of the applications made for the PLAR process f
   - For Data Analysis, *Athena*
   - For Data Visualization, *Excel* or *Amazon Quicksight*
   - For Data Publishing, *EC2*
-  - For Data monitoring, *CloudWatch*
+  - For Data Monitoring, *CloudWatch*
  
 #### Data Wrangling    
 - Implementation, *Amazon Web Services*
