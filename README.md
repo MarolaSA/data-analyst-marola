@@ -32,6 +32,15 @@ The dataset contains the records of the applications made for the PLAR process f
 - Data Wrangling
 - Data quality control
 
+### Tools and Technologies
+
+
+### Deliverables
+
+
+
+
+
 ## [Project 2: Data Analytic Platform for the *City of Vancouver*](The_City_of_Vancouver/README.md)
 
 ### Background:
@@ -54,3 +63,10 @@ The dataset contains the records of the inquiry that were received in the 311 co
 - Descriptive Analysis
 - Data Wrangling
 - Data quality control
+
+### Tools and Technologies
+
+
+### Deliverables
+
+
