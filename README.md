@@ -4,7 +4,7 @@ Different types of analysis carried out for the two projects are detailed below:
 - Data Analytic Platform for the **University Canada West**
 - Data Analytic Platform for the **City of Vancouver**
  
-## [Project 1: Data Analytic Platform for the *University Canada West*](University_Canada_West/README.md)
+## [Project 1: Data Analytic Platform for the University Canada West](University_Canada_West/README.md)
 
 ### *Background:*
 The University Canada West is an Educative Institution focus on provide high-quality eduction for which gathering, collecting and storing information generated from it operational activities is essencial to obtain statistics. However, all this data needs to be processed in ordert to obtain valuable insights that allows the UCW keep maintaing it high-quality education.
@@ -60,14 +60,14 @@ The dataset contains the records of the applications made for the PLAR process f
 - Implementation, *Amazon Web Services*
    - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage*
 
-### Deliverables
+### *Deliverables*
 - Drawiou Design
 - Data Analytic Platform Implementation in Amazon Web Service
 - Written Report Phase 1
 - Written Report Phase 2  
 
 
-## [Project 2: Data Analytic Platform for the *City of Vancouver*](The_City_of_Vancouver/README.md)
+## [Project 2: Data Analytic Platform for the City of Vancouver](The_City_of_Vancouver/README.md)
 
 ### *Background:*
 The City of Vancouver has generated, collected and stored information from the urban management that it has been carrying out during the last years to record its operational activities and obtain statistics. However, this data should be processed to obtain structured data by which the City of Vancouver can obtain valuable insight for improving the urban management and provide a high quality service. 
