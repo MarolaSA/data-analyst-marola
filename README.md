@@ -86,13 +86,43 @@ The dataset contains the records of the inquiry that were received in the 311 co
 - BI_ID: Unique Identification for each inquiry
 
 ### Analysis Performed:
-- Descriptive Analysis
-- Data Wrangling
-- Data quality control
+- *Descriptive Analysis*
+- *Data Wrangling*
+- *Data Protection*
+- *Data Quality Control*
 
 ### Tools and Technologies
 
+#### Descriptive Analysis
+- All Design, *Draw.io*
+- Implementation, *Amazon Web Services*
+  - For Data discovery, tools such as *Athena and AWS Glue Data Catalog*, which can be used to explore in more detail the data
+  - For Data Storage and Ingestion, *S3*
+  - For Data Pipeline Implementation, *AWS Glue*
+  - For Data Analysis, *Athena*
+  - For Data Visualization, *Excel* or *Amazon Quicksight*
+  - For Data Publishing, *EC2*
+  - For Data monitoring, *CloudWatch*
+ 
+#### Data Wrangling    
+- Implementation, *Amazon Web Services*
+  - For Data Cleaning, *Glue Databrew, Grid*
+  - For Data Structuring, *Glue Databrew, Schema*
+
+#### Data Protection
+- Implementation, *Amazon Web Services*
+  - For User Management, *Identity Access Management (IAM)*
+  - For encryption and decryption, *Key Management Service (KMS)*
+
+#### Data Quality Control
+- Implementation, *Amazon Web Services*
+   - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage*
 
 ### Deliverables
+- Drawiou Design
+- Data Analytic Platform Implementation in Amazon Web Service
+- Written Report Phase 1
+- Written Report Phase 2  
+
 
 
