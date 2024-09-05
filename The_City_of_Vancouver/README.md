@@ -107,13 +107,28 @@ Allows sharing results with users outside the company or a public audience
 ![image](https://github.com/user-attachments/assets/500a9a29-5d7d-4413-af85-755db8b7dbab)
 
 
-**6. Inquiry Segmentation Per Channel**
+**6. Monitoring Resources**
+
+- In the monitoring, the metrics of the dataset are observed, and after this observation, an analysis is performed. This analysis consists of comparing the metric with the defined threshold, and then based on the result of this analysis, if necessary, actions will be executed or not, this means controlling.
+- It should be noted that some metrics can generate time series data, this can be verified when the observation is performed. If the time series is continuous, then there is a stream of data. The stream data needs analysis and immediate attention.
+- Resources that have been monitored are S3, estimated charge and objects; the AWS Glue resource usage; and an alarm has been configured, and a threshold has been defined to monitor the estimated charge.
+
+#### **Monitoring Resources**
+
+![image](https://github.com/user-attachments/assets/dcfd3211-9255-4935-a7eb-935331048a37)
+
+#### **Trancking Users**
+
+![image](https://github.com/user-attachments/assets/8a19bea8-4fca-4c54-ba36-5edb1e8a519b)
+
+
+**7. Insights and Findings**
 
 Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
 
-#### **Inquiry Segmentation per Channel**
 
 
+**8. Recommendations**
 
 ### Recommendations
 ## Data Wrangling
