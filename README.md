@@ -6,13 +6,13 @@ Different types of analysis carried out for the two projects are detailed below:
  
 ## [Project 1: Data Analytic Platform for the *University Canada West*](University_Canada_West/README.md)
 
-### Background:
+### *Background:*
 The University Canada West is an Educative Institution focus on provide high-quality eduction for which gathering, collecting and storing information generated from it operational activities is essencial to obtain statistics. However, all this data needs to be processed in ordert to obtain valuable insights that allows the UCW keep maintaing it high-quality education.
 
-### Goal:
+### *Goal:*
 Improve the performance of the Prior Learning Assessment and Recognition procedure of the registrar's office at UCW
 
-### Dataset:
+### *Dataset:*
 The dataset contains the records of the applications made for the PLAR process for the years 2024 and 2023. The fields contained in this dataset are detailed below:
 
 - *Application ID:* Unique Identification for each PLAR Request
@@ -27,13 +27,13 @@ The dataset contains the records of the applications made for the PLAR process f
 - *Evaluation Status:* Current status of the course or credit request evaluation
 - *Decision Date:* The date of the final decision was made
 
-### Analysis Performed:
+### *Analysis Performed:*
 - *Descriptive Analysis*
 - *Data Wrangling*
 - *Data Protection*
 - *Data Quality Control*
 
-### Tools and Technologies
+### *Tools and Technologies*
 
 #### Descriptive Analysis
 - All Design, *Draw.io*
@@ -69,13 +69,13 @@ The dataset contains the records of the applications made for the PLAR process f
 
 ## [Project 2: Data Analytic Platform for the *City of Vancouver*](The_City_of_Vancouver/README.md)
 
-### Background:
+### *Background:*
 The City of Vancouver has generated, collected and stored information from the urban management that it has been carrying out during the last years to record its operational activities and obtain statistics. However, this data should be processed to obtain structured data by which the City of Vancouver can obtain valuable insight for improving the urban management and provide a high quality service. 
 
-### Goal:
+### *Goal:*
 Improve the efficiency and performance of the 3-1-1 Contact Centre for attending inquiries in The City of Vancouver by analyzing the rate of inquiries received through the Phone channel.
 
-### Dataset:
+### *Dataset:*
 The dataset contains the records of the inquiry that were received in the 311 contact center for the years 2024 and 2023. The fields contained in this dataset are detailed below:
 
 - *Department:* Name of the department that attends the inquiry
@@ -85,13 +85,13 @@ The dataset contains the records of the inquiry that were received in the 311 co
 - *Number of Records:* Number of inquiries that were received by a specific channel
 - *BI_ID:* Unique Identification for each inquiry
 
-### Analysis Performed:
+### *Analysis Performed:*
 - *Descriptive Analysis*
 - *Data Wrangling*
 - *Data Protection*
 - *Data Quality Control*
 
-### Tools and Technologies
+### *Tools and Technologies*
 
 #### Descriptive Analysis
 - All Design, *Draw.io*
@@ -118,7 +118,7 @@ The dataset contains the records of the inquiry that were received in the 311 co
 - Implementation, *Amazon Web Services*
    - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage*
 
-### Deliverables
+### *Deliverables*
 - Drawiou Design
 - Data Analytic Platform Implementation in Amazon Web Service
 - Written Report Phase 1
