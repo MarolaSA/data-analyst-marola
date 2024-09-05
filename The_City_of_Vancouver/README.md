@@ -80,6 +80,7 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 
 ![image](https://github.com/user-attachments/assets/7aa3a1ac-f6b7-4cac-8d16-900fa43bcf32)
 
+
 **4. Data Analysis**
 
 - The data analysis process involves three tasks: review, understand and explore data. Data exploration will be performed by using SQL. 
@@ -88,7 +89,7 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 
 ![image](https://github.com/user-attachments/assets/571667ae-82b4-444f-96c9-f5a77d950517)
 
-![image](https://github.com/user-attachments/assets/bbb4ae10-0fdb-426c-931f-c27ddb190439)
+![image](https://github.com/user-attachments/assets/d51fc0d7-f0bf-48a4-9147-3a245de2d956)
 
 
 **5. Data Visualization**
