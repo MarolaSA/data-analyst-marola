@@ -15,17 +15,17 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 ### Dataset:
 The dataset contains the records of the applications made for the PLAR process for the years 2024 and 2023. The fields contained in this dataset are detailed below:
 
-- Application ID: Unique Identification for each PLAR Request
-- Student ID: Unique Identification for each UCW Student
-- Full Name: UCW Student Name
-- Application Request Date: Date of the application
-- Program Applied For: Program that the UCW Student is currently studying
-- Course Code: Unique Identification for each Course
-- Course Title: Official name of the academic course
-- Credits Requested: Number of academic credits being requested
-- Credits Granted: Number of academic credits that have been approved or awarded
-- Evaluation Status: Current status of the course or credit request evaluation
-- Decision Date: The date of the final decision was made
+- *Application ID:* Unique Identification for each PLAR Request
+- *Student ID:* Unique Identification for each UCW Student
+- *Full Name:* UCW Student Name
+- *Application Request Date:* Date of the application
+- *Program Applied For:* Program that the UCW Student is currently studying
+- *Course Code:* Unique Identification for each Course
+- *Course Title:* Official name of the academic course
+- *Credits Requested:* Number of academic credits being requested
+- *Credits Granted:* Number of academic credits that have been approved or awarded
+- *Evaluation Status:* Current status of the course or credit request evaluation
+- *Decision Date:* The date of the final decision was made
 
 ### Analysis Performed:
 - *Descriptive Analysis*
@@ -78,12 +78,12 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 ### Dataset:
 The dataset contains the records of the inquiry that were received in the 311 contact center for the years 2024 and 2023. The fields contained in this dataset are detailed below:
 
-- Department: Name of the department that attends the inquiry
-- Type: Inquiry Type that has been attended
-- Year Month: Year and month of the inquiry
-- Channel: Type of channel through which the inquiry was received
-- Number of Records: Number of inquiries that were received by a specific channel
-- BI_ID: Unique Identification for each inquiry
+- *Department:* Name of the department that attends the inquiry
+- *Type:* Inquiry Type that has been attended
+- *Year Month:* Year and month of the inquiry
+- *Channel:* Type of channel through which the inquiry was received
+- *Number of Records:* Number of inquiries that were received by a specific channel
+- *BI_ID:* Unique Identification for each inquiry
 
 ### Analysis Performed:
 - *Descriptive Analysis*
@@ -98,7 +98,7 @@ The dataset contains the records of the inquiry that were received in the 311 co
 - Implementation, *Amazon Web Services*
   - For Data discovery, tools such as *Athena and AWS Glue Data Catalog*, which can be used to explore in more detail the data
   - For Data Storage and Ingestion, *S3*
-  - For Data Pipeline Implementation, *AWS Glue*
+  - For Data Pipeline Implementation and Descriptive Analysis and Metrics Result, *AWS Glue*
   - For Data Analysis, *Athena*
   - For Data Visualization, *Excel* or *Amazon Quicksight*
   - For Data Publishing, *EC2*
