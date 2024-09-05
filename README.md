@@ -4,11 +4,6 @@ Different types of analysis carried out for the two projects are detailed below:
 - Data Analytic Platform for the **University Canada West**
 - Data Analytic Platform for the **City of Vancouver**
  
-For these Projects, 3 types of analysis have been carried out:
-- Descriptive Analysis
-- Data Wrangling
-- Data quality control
-
 ## [Project 1: Data Analytic Platform for the *University Canada West*](University_Canada_West/README.md)
 
 ### Background:
@@ -32,13 +27,18 @@ The dataset contains the records of the applications made for the PLAR process f
 - Evaluation Status: Current status of the course or credit request evaluation
 - Decision Date: The date of the final decision was made
 
+### Analysis Performed:
+- Descriptive Analysis
+- Data Wrangling
+- Data quality control
+
 ## [Project 2: Data Analytic Platform for the *City of Vancouver*](The_City_of_Vancouver/README.md)
 
 ### Background:
 The City of Vancouver has generated, collected and stored information from the urban management that it has been carrying out during the last years to record its operational activities and obtain statistics. However, this data should be processed to obtain structured data by which the City of Vancouver can obtain valuable insight for improving the urban management and provide a high quality service. 
 
 ### Goal:
-improve the efficiency and performance of the 3-1-1 Contact Centre for attending inquiries in The City of Vancouver by analyzing the rate of inquiries received through the Phone channel.
+Improve the efficiency and performance of the 3-1-1 Contact Centre for attending inquiries in The City of Vancouver by analyzing the rate of inquiries received through the Phone channel.
 
 ### Dataset:
 The dataset contains the records of the inquiry that were received in the 311 contact center for the years 2024 and 2023. The fields contained in this dataset are detailed below:
@@ -50,3 +50,7 @@ The dataset contains the records of the inquiry that were received in the 311 co
 - Number of Records: Number of inquiries that were received by a specific channel
 - BI_ID: Unique Identification for each inquiry
 
+### Analysis Performed:
+- Descriptive Analysis
+- Data Wrangling
+- Data quality control
