@@ -42,19 +42,28 @@ The dataset contains the records of the applications made for the PLAR process f
   - For Data Pipeline Implementation, *AWS Glue*
   - For Data Analysis, *Athena*
   - For Data Visualization, *Excel* or *Amazon Quicksight*
-  - For Data Publishing, *EC2 *
-  - For Data monitoring, XXXXXXXXXXXXXXXXXXXXXXXXXX
+  - For Data Publishing, *EC2*
+  - For Data monitoring, *CloudWatch*
  
-
-#### Data Wrangling
+#### Data Wrangling    
 - Implementation, *Amazon Web Services*
-  - Data cleaning and structuring, *Glue Databrew*
-  - 
+  - For Data Cleaning, *Glue Databrew, Grid*
+  - For Data Structuring, *Glue Databrew, Schema*
+
+#### Data Protection
+- Implementation, *Amazon Web Services*
+  - For User Management, *Identity Access Management (IAM)*
+  - For encryption and decryption, *Key Management Service (KMS)*
 
 #### Data Quality Control
-
+- Implementation, *Amazon Web Services*
+   - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage*
 
 ### Deliverables
+- Drawiou Design
+- DAP Implementation in AWS
+- Written Report Phase 1
+- Written Report Phase 2  
 
 
 
