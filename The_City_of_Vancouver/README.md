@@ -64,7 +64,17 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 
 #### **Data Pipeline Implementation**
 
-![image](https://github.com/user-attachments/assets/d38abc61-1eae-4983-8dba-d94cff4a3b29)
+![image](https://github.com/user-attachments/assets/d6de167d-67f4-487c-8249-ea04a9ac2b52)
+
+
+![image](https://github.com/user-attachments/assets/3465e3c9-cb1d-49f5-a370-d8bd6658bfdd)
+
+
+Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
+
+#### **Metrics Result**
+
+![image](https://github.com/user-attachments/assets/7aa3a1ac-f6b7-4cac-8d16-900fa43bcf32)
 
 
 ## Data Wrangling
