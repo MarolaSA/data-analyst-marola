@@ -35,11 +35,21 @@ The dataset contains the records of the applications made for the PLAR process f
 ### Tools and Technologies
 
 #### Descriptive Analysis
-- Design, *Draw.io*
+- All Design, *Draw.io*
 - Implementation, *Amazon Web Services*
   - For Data discovery, tools such as *Athena and AWS Glue Data Catalog*, which can be used to explore in more detail the data
+  - For Data Storage and Ingestion, *S3*
+  - For Data Pipeline Implementation, *AWS Glue*
+  - For Data Analysis, *Athena*
+  - For Data Visualization, *Excel* or *Amazon Quicksight*
+  - For Data Publishing, *EC2 *
+  - For Data monitoring, XXXXXXXXXXXXXXXXXXXXXXXXXX
+ 
 
 #### Data Wrangling
+- Implementation, *Amazon Web Services*
+  - Data cleaning and structuring, *Glue Databrew*
+  - 
 
 #### Data Quality Control
 
