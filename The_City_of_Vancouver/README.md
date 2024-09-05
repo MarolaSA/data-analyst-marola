@@ -80,8 +80,15 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 
 ![image](https://github.com/user-attachments/assets/7aa3a1ac-f6b7-4cac-8d16-900fa43bcf32)
 
+**4. Data Analysis**
 
-**4. Data Visualization**
+- The data analysis process involves three tasks: review, understand and explore data. Data exploration will be performed by using SQL. 
+
+##### **Data Analysis**
+
+![image](https://github.com/user-attachments/assets/571667ae-82b4-444f-96c9-f5a77d950517)
+
+**5. Data Visualization**
 
 - With the content and structure ready, one way to present the results is to visualize the information and create a dashboard. The AWS service that allows visualizing the information is Amazon Quicksight, but for this case, the excel tool will be used to visualize the data.
 
@@ -90,7 +97,7 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 ![image](https://github.com/user-attachments/assets/fc4e8580-a9bf-47b2-ba16-dcc9c419bae3)
 
 
-**5. Data Publishing**
+**6. Data Publishing**
 
 - For data publishing, two servers were configured, one to share and show information internally and another to show information to external users.
 
@@ -107,7 +114,7 @@ Allows sharing results with users outside the company or a public audience
 ![image](https://github.com/user-attachments/assets/500a9a29-5d7d-4413-af85-755db8b7dbab)
 
 
-**6. Monitoring Resources**
+**7. Data Monitoring**
 
 - In the monitoring, the metrics of the dataset are observed, and after this observation, an analysis is performed. This analysis consists of comparing the metric with the defined threshold, and then based on the result of this analysis, if necessary, actions will be executed or not, this means controlling.
 - It should be noted that some metrics can generate time series data, this can be verified when the observation is performed. If the time series is continuous, then there is a stream of data. The stream data needs analysis and immediate attention.
@@ -122,12 +129,12 @@ Allows sharing results with users outside the company or a public audience
 ![image](https://github.com/user-attachments/assets/8a19bea8-4fca-4c54-ba36-5edb1e8a519b)
 
 
-**7. Insights and Findings**
+**8. Insights and Findings**
 
 - Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
 
 
-**8. Recommendations**
+**9. Recommendations**
 
 
 
