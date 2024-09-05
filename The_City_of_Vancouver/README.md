@@ -135,18 +135,19 @@ Allows sharing results with users outside the company or a public audience
 
 ### ***Insights and Findings***
 
-- Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
+- It can be observed that between the years 2024 and 2023 there is a small decrease in the Records per Phone Channel Rate, which means that the number of inquiries received by phone channel has decreased. However, despite this decrease and when compared to other channels such as chat, email, mail, and social media, the phone channel is still the channel that receives the most inquiries.
 
 
 ### ***Recommendations***
 
+- Based on the findings mentioned in the previous point, it is recommended that The City of Vancouver prioritize improvements and resource allocation for the phone channel in order to reduce response times and improve customer service that allows it to continue offering quality service.
 
 
-## Data Wrangling
+# **Data Wrangling**
 
 
+# **Data Protection**
 
 
-
-## Data quality control
+# **Data quality control**
 
