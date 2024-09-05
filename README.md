@@ -28,9 +28,10 @@ The dataset contains the records of the applications made for the PLAR process f
 - Decision Date: The date of the final decision was made
 
 ### Analysis Performed:
-- Descriptive Analysis
-- Data Wrangling
-- Data quality control
+- *Descriptive Analysis*
+- *Data Wrangling*
+- *Data Protection*
+- *Data Quality Control*
 
 ### Tools and Technologies
 
