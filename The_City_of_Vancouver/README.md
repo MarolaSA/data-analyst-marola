@@ -88,6 +88,9 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
 
 ![image](https://github.com/user-attachments/assets/571667ae-82b4-444f-96c9-f5a77d950517)
 
+![image](https://github.com/user-attachments/assets/bbb4ae10-0fdb-426c-931f-c27ddb190439)
+
+
 **5. Data Visualization**
 
 - With the content and structure ready, one way to present the results is to visualize the information and create a dashboard. The AWS service that allows visualizing the information is Amazon Quicksight, but for this case, the excel tool will be used to visualize the data.
