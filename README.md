@@ -58,13 +58,12 @@ The dataset contains the records of the applications made for the PLAR process f
 
 #### Data Quality Control
 - Implementation, *Amazon Web Services*
-   - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage*
+   - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage, S3*
 
 ### *Deliverables*
 - Drawiou Design
 - Data Analytic Platform Implementation in Amazon Web Service
-- Written Report Phase 1
-- Written Report Phase 2  
+ 
 
 ![image](https://github.com/user-attachments/assets/0c9b011f-320b-4127-b21c-bb335146ce1a)
 
@@ -119,13 +118,13 @@ The dataset contains the records of the inquiries that were received in the 311 
 
 #### Data Quality Control
 - Implementation, *Amazon Web Services*
-   - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage*
+   - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage, S3*
 
 ### *Deliverables*
 - Drawiou Design
 - Data Analytic Platform Implementation in Amazon Web Service
 - Written Report Phase 1
-- Written Report Phase 2  
+- Written Report Phase 2 
 
 
 ![image](https://github.com/user-attachments/assets/cfdc58bb-843e-4c9a-aafd-6bcef89830ba)
