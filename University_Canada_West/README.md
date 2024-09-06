@@ -36,7 +36,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
    ##### **Data Storage Design in Drawio**
 
-  ![image](https://github.com/user-attachments/assets/13cc9c4f-e8d8-4779-b630-f4c88d1b5326)
+  ![image](https://github.com/user-attachments/assets/8357cf0c-eb31-4e97-ba52-d81a0872946b)
 
 
 #### **Data Set Preparation - Operational Environment**
