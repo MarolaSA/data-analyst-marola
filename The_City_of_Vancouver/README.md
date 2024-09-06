@@ -144,7 +144,9 @@ Allows sharing results with users outside the company or a public audience
 
 
 ### ***Deliverables***
-- Data Analytic Platform Implementation in Amazon Web Service
+- Data Pipeline Implementation in Amazon Web Service
+
+![image](https://github.com/user-attachments/assets/d410d3d5-38b6-4298-8012-ea184cb1d275)
 
 
 
