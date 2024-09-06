@@ -18,7 +18,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 **1. Descriptive Metric Definition**
 
    - “PLAR Success Rate” has been defined considering the following formula:
-       #### *LAR Success Rate = (Number of PLAR Success Application)/(Number of PLAR Requests Application)*
+       #### *PLAR Success Rate = (Number of PLAR Success Application)/(Number of PLAR Requests Application)*
 
 ![image](https://github.com/user-attachments/assets/4bfc8e3e-06c5-407b-be02-ffbdfae64bcd)
 
@@ -39,11 +39,11 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 #### **Data Set Preparation - Operational Environment**
 
-  - The dataset “311 inquiry volume 2024.xls” and “311 inquiry volume 2023.xls” obtained from The City of Vancouver will be used, each dataset has a total of 6 column names (headers) and 2277 rows (data items); however, for this analysis 500 rows (data items) was processed. 
+  - The dataset “PLAR Request" will be used, it has a total of 11 column names (headers) and 50 rows (data items).
 
    ##### **Dataset Preparation**
 
-![image](https://github.com/user-attachments/assets/e458e994-b207-4209-acde-80cafc35c935)
+![image](https://github.com/user-attachments/assets/6b68aa9e-d202-41e6-80cd-aeba854003a5)
 
 #### **Data Ingestion**
 
