@@ -200,7 +200,7 @@ Converting a low-quality dataset into a high-quality one and preparing it to be 
 
 Data Protection performed for the DAP of The City of Vancouver
 
-### ***Data Wrangling Description***
+### ***Data Protection Description***
 
 Implement data protection for the analytical environment in order to protect the dataset from invalid users. 
 
