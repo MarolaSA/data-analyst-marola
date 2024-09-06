@@ -145,9 +145,11 @@ Allows sharing results with users outside the company or a public audience
 
 # **Data Wrangling**
 
+Data Wrangling performed on 311 inquiry volume Dataset
+
 ### ***Data Wrangling Description***
 
-- For this purpose, the Glue Databrew AWS service will be used to prepare the dataset.; 
+For this purpose, the Glue Databrew AWS service will be used to prepare the dataset.; 
 
 ### ***Goal***
 
