@@ -190,7 +190,7 @@ Converting a low-quality dataset into a high-quality one and preparing it to be 
 
 
 ### ***Deliverables***
--  Dataset cleaned and structured generated and stored the in the Raw Zone, Inquiry Volume folder.
+-  Dataset cleaned and structured generated and stored the in the Raw Zone, PLAR Requests folder.
 
 ![image](https://github.com/user-attachments/assets/24b29b18-f97d-46b1-b0b4-98c7cf0b30fd)
 
@@ -266,10 +266,7 @@ Define and enforce rules, through which it is determined whether the dataset pas
 ![image](https://github.com/user-attachments/assets/ad8f7173-0902-4f11-8af5-ad714debc89e)
 
 
-![image](https://github.com/user-attachments/assets/08a6a578-c3db-443a-9f24-dbe7796306ec)
-
-![image](https://github.com/user-attachments/assets/5a5be29b-fae5-4a4f-9b47-748b922035cc)
 
 
 ### ***Deliverables***
--  Dataset with quality control implemented by ensuaring 0.95 in the "inquirychannel" field.
+-  Dataset with quality control implemented by ensuaring 0.95 in the "Application" field.
