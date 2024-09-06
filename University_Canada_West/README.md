@@ -71,8 +71,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
    ##### **Data Pipeline Implementation**
 
-![image](https://github.com/user-attachments/assets/ee60f915-0013-4251-b498-86257392e60a)
-
+![image](https://github.com/user-attachments/assets/3d44c10e-0721-46de-aa1e-83fbd3a98650)
 
 
 **3. Descriptive Analysis and Metrics Result**
@@ -81,7 +80,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 ##### **Descriptive Analysis and Metrics Result**
 
-![image](https://github.com/user-attachments/assets/7aa3a1ac-f6b7-4cac-8d16-900fa43bcf32)
+![image](https://github.com/user-attachments/assets/150fee10-fb09-4b1d-acd1-fc0751fad765)
 
 
 **4. Data Analysis**
@@ -90,9 +89,10 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 ##### **Data Analysis**
 
-![image](https://github.com/user-attachments/assets/571667ae-82b4-444f-96c9-f5a77d950517)
+![image](https://github.com/user-attachments/assets/78f3ca28-20b5-441f-8719-3e336b8d8e16)
 
-![image](https://github.com/user-attachments/assets/d51fc0d7-f0bf-48a4-9147-3a245de2d956)
+![image](https://github.com/user-attachments/assets/1e070eb5-5d8b-4d71-898a-62f6048bcb14)
+
 
 
 **5. Data Visualization**
@@ -101,7 +101,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 ##### **Data Visualization**
 
-![image](https://github.com/user-attachments/assets/fc4e8580-a9bf-47b2-ba16-dcc9c419bae3)
+![image](https://github.com/user-attachments/assets/da7bbe46-af4c-4e2c-886c-84afe4cbfb09)
 
 
 **6. Data Publishing**
@@ -112,13 +112,15 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 Allows sharing resources with other users of the same company
 
-![image](https://github.com/user-attachments/assets/93bcc230-e036-4a5d-9871-6056380abfe1)
+![image](https://github.com/user-attachments/assets/75f9c681-089b-44b1-a908-25c095df87bd)
+
 
 ##### **Data Publishing via Web Server**
 
 Allows sharing results with users outside the company or a public audience
 
-![image](https://github.com/user-attachments/assets/500a9a29-5d7d-4413-af85-755db8b7dbab)
+![image](https://github.com/user-attachments/assets/dc8068ea-e1e3-4618-a310-f6187e872e20)
+
 
 
 **7. Data Monitoring**
@@ -129,22 +131,23 @@ Allows sharing results with users outside the company or a public audience
 
 ##### **Monitoring Resources**
 
-![image](https://github.com/user-attachments/assets/dcfd3211-9255-4935-a7eb-935331048a37)
+![image](https://github.com/user-attachments/assets/7089c458-81b5-433c-8fb8-81fc02ff27c7)
+
 
 ##### **Trancking Users**
 
-![image](https://github.com/user-attachments/assets/8a19bea8-4fca-4c54-ba36-5edb1e8a519b)
+![image](https://github.com/user-attachments/assets/b56c329e-6480-4838-8044-791ff9b49a9f)
+
 
 
 ### ***Insights and Findings***
 
-- It can be observed that between the years 2024 and 2023 there is a small decrease in the Records per Phone Channel Rate, which means that the number of inquiries received by phone channel has decreased. However, despite this decrease and when compared to other channels such as chat, email, mail, and social media, the phone channel is still the channel that receives the most inquiries.
+- It can be observed that between the years 2024 and 2023 there is a small decrease in the PLAR Success Rate, which means that the number of PLAR Requests Application Successful has decreased a little.
 
 
 ### ***Recommendations***
 
-- Based on the findings mentioned in the previous point, it is recommended that The City of Vancouver prioritize improvements and resource allocation for the phone channel in order to reduce response times and improve customer service that allows it to continue offering quality service.
-
+- Based on the findings mentioned in the previous point, it is recommended that The UCW conduct a diagnostic analysis to identify the causes that are generating this decrease, for example, incomplete supporting documentation, incomplete portfolios, or failed interview.
 
 ### ***Deliverables***
 - Data Pipeline Implementation in Amazon Web Service
@@ -176,26 +179,22 @@ Converting a low-quality dataset into a high-quality one and preparing it to be 
 
 ![image](https://github.com/user-attachments/assets/8bcceb26-8504-4617-ab26-f50687b1c353)
 
-**2. Data Cleaning**
-- For cleaning both datasets, “311 inquiry volume 2024.xls” and “311 inquiry volume 2023.xls” the headers were renamed with an appropriate name. Additionally, the year was extracted to create another column called InquiryYearMonth_YEAR which will only contain the year.
+**2. Data Cleaning and Structuring**
+- For cleaning the dataset, “PLAR Requests” the headers were renamed with an appropriate name. Additionally, the year was extracted to create another column called YEAR which will only contain the year.
+- For structuring the schema was updated.
 
-##### **Dataset Cleaning**
+##### **Dataset Cleaning and Structuring**
 
-![image](https://github.com/user-attachments/assets/e2429714-3a60-4162-bfc4-8ff538957d22)
+![image](https://github.com/user-attachments/assets/85e53b14-53a2-4df4-a1c3-2baff33aad01)
 
-**2. Data Structuring**
-- For structuring both datasets, the schema was updated.
-
-##### **Dataset Structuring**
-
-![image](https://github.com/user-attachments/assets/e28f1887-3703-4f0d-8110-56bd2909e8d6)
 
 ### ***Deliverables***
 -  Dataset cleaned and structured generated and stored the in the Raw Zone, Inquiry Volume folder.
 
-![image](https://github.com/user-attachments/assets/af5ad6b2-19f5-4294-876a-d942eb0595d9)
+![image](https://github.com/user-attachments/assets/24b29b18-f97d-46b1-b0b4-98c7cf0b30fd)
 
-![image](https://github.com/user-attachments/assets/ae45ca1b-b053-4e41-a9f4-d18e285b366e)
+![image](https://github.com/user-attachments/assets/9f1e82f2-97db-41e0-a33c-638c1ffd568c)
+
 
 
 
