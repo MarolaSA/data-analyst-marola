@@ -158,7 +158,7 @@ Allows sharing results with users outside the company or a public audience
 
 # **Data Wrangling**
 
-Data Wrangling performed on 311 inquiry volume Dataset
+Data Wrangling performed on PLAR Requests Dataset
 
 ### ***Data Wrangling Description***
 
@@ -171,13 +171,14 @@ Converting a low-quality dataset into a high-quality one and preparing it to be 
 ### ***Methodology***
 
 **1. Dataset Collection**
-- “311 inquiry volume 2024.xls” and “311 inquiry volume 2023.xls” will be cleaned and structured.
+- “PLAR Requests" will be cleaned and structured.
 
 ##### **Dataset Collection**
 
-![image](https://github.com/user-attachments/assets/f3ef81fa-7db4-4331-b859-df208dc3426d)
 
-![image](https://github.com/user-attachments/assets/8bcceb26-8504-4617-ab26-f50687b1c353)
+![image](https://github.com/user-attachments/assets/6b68aa9e-d202-41e6-80cd-aeba854003a5)
+
+![image](https://github.com/user-attachments/assets/9a974b95-3c37-437b-9dd7-a36cceaa9eca)
 
 **2. Data Cleaning and Structuring**
 - For cleaning the dataset, “PLAR Requests” the headers were renamed with an appropriate name. Additionally, the year was extracted to create another column called YEAR which will only contain the year.
@@ -219,11 +220,12 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 ##### **User Management, Encryption and Decryption**
 
-![image](https://github.com/user-attachments/assets/045f07bb-7cdf-4996-9ffb-b833da88f9fa)
+![image](https://github.com/user-attachments/assets/7ba28f20-924a-42a4-8f4b-2c344f7f4fc1)
 
 ![image](https://github.com/user-attachments/assets/8fa705d2-dede-4c4b-b9fe-81f3b60cb688)
 
-![image](https://github.com/user-attachments/assets/ed10daf9-8f0e-414c-ae7f-da0bdc5343b9)
+![image](https://github.com/user-attachments/assets/7e2554a2-4238-405e-b88d-8e1b0c192a1d)
+
 
 ### ***Deliverables***
 -  Confidentiality, integrity, and availability protection implemented.
