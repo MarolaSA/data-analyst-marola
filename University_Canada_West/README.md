@@ -49,16 +49,17 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 #### **Data Ingestion**
 
-  - To perform data ingestion, uploading data is required. In this case, the files “311 inquiry volume” for 2023 and 2024 have been uploaded.
+  - To perform data ingestion, uploading data is required. In this case, the file “PLAR Requests” have been uploaded.
 
    ##### **Data Ingestion**
 
-![image](https://github.com/user-attachments/assets/0c2d0618-0880-434f-8826-6fae3df19e35)
+![image](https://github.com/user-attachments/assets/9a974b95-3c37-437b-9dd7-a36cceaa9eca)
+
 
 #### **Data Pipeline Design and Implementation**
 
-  - For the descriptive metric Records per Phone Channel Rate Data pipeline design, a linear data diagram has been developed in Draw.io; where the datasets are represented by tables and the processes are represented by circles. For the design, the backward design has been used, in which the operational dataset is located at the bottom and the summarized data is located at the top.
-  - To implement the ETL pipeline for the descriptive metric Records per Phone Channel Rate, the diagram design made in Drawio has been taken as a reference since it will show clearly in detail the available information, the information needed, and the actions that should be executed to obtain the metric we want to analyze
+  - For the descriptive metric PLAR Success Rate Data pipeline design, a linear data diagram has been developed in Draw.io; where the datasets are represented by tables and the processes are represented by circles. For the design, the backward design has been used, in which the operational dataset is located at the bottom and the summarized data is located at the top.
+  - To implement the ETL pipeline for the descriptive metric PLAR Success Rate, the diagram design made in Drawio has been taken as a reference since it will show clearly in detail the available information, the information needed, and the actions that should be executed to obtain the metric we want to analyze
 
    ##### **Data Pipeline Design**
 
@@ -70,10 +71,8 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
    ##### **Data Pipeline Implementation**
 
-![image](https://github.com/user-attachments/assets/d6de167d-67f4-487c-8249-ea04a9ac2b52)
+![image](https://github.com/user-attachments/assets/ee60f915-0013-4251-b498-86257392e60a)
 
-
-![image](https://github.com/user-attachments/assets/3465e3c9-cb1d-49f5-a370-d8bd6658bfdd)
 
 
 **3. Descriptive Analysis and Metrics Result**
