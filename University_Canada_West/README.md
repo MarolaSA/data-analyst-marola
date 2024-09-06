@@ -39,19 +39,15 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
   ![image](https://github.com/user-attachments/assets/8357cf0c-eb31-4e97-ba52-d81a0872946b)
 
 
-#### **Data Set Preparation - Operational Environment**
+#### **Data Set Preparation and Data Ingestion - Operational Environment**
 
   - The dataset “PLAR Request" will be used, it has a total of 11 column names (headers) and 50 rows (data items).
-
-   ##### **Dataset Preparation**
-
-![image](https://github.com/user-attachments/assets/6b68aa9e-d202-41e6-80cd-aeba854003a5)
-
-#### **Data Ingestion**
-
   - To perform data ingestion, uploading data is required. In this case, the file “PLAR Requests” have been uploaded.
 
-   ##### **Data Ingestion**
+   ##### **Dataset Preparation and Data Ingestion**
+
+![image](https://github.com/user-attachments/assets/f2751f7b-7ab1-48c3-bd63-3a96bd456fbe)
+
 
 ![image](https://github.com/user-attachments/assets/9a974b95-3c37-437b-9dd7-a36cceaa9eca)
 
