@@ -5,7 +5,7 @@ Overview of the three analysis:
 # **Descriptive Analysis**
 Descriptive Analysis of 311 inquiry volume Dataset
 
-### ***Analysis Description***
+### ***Descriptive Analysis Description***
 
 The City of Vancouver has a 3-1-1 Contact Center that handles inquiries from the community through various channels such as chat, phone, email, and social media. These inquiries are categorized into different types and are managed by other departments depending on their category.
 Currently, the 3-1-1 Contact Center receives a considerable number of inquiries, the descriptive analysis will be used to analyze the performance of the Phone channel and thus answer the question “What happens in my company?”
@@ -145,6 +145,40 @@ Allows sharing results with users outside the company or a public audience
 
 # **Data Wrangling**
 
+### ***Data Wrangling Description***
+
+- For this purpose, the Glue Databrew AWS service will be used to prepare the dataset.; 
+
+### ***Goal***
+
+Converting a low-quality dataset into a high-quality one and preparing it to be stored in a structured way in the analytical environment. 
+
+### ***Methodology***
+
+**1. Dataset Collection**
+- “311 inquiry volume 2024.xls” and “311 inquiry volume 2023.xls” will be cleaned and structured.
+
+##### **Dataset Collection**
+
+![image](https://github.com/user-attachments/assets/f3ef81fa-7db4-4331-b859-df208dc3426d)
+
+![image](https://github.com/user-attachments/assets/8bcceb26-8504-4617-ab26-f50687b1c353)
+
+**2. Data Cleaning**
+- For cleaning both datasets, “311 inquiry volume 2024.xls” and “311 inquiry volume 2023.xls” the headers were renamed with an appropriate name. Additionally, the year was extracted to create another column called InquiryYearMonth_YEAR which will only contain the year.
+
+##### **Dataset Cleaning**
+
+![image](https://github.com/user-attachments/assets/e2429714-3a60-4162-bfc4-8ff538957d22)
+
+**2. Data Structuring**
+- For structuring both datasets, the schema was updated.
+
+##### **Dataset Structuring**
+
+![image](https://github.com/user-attachments/assets/e28f1887-3703-4f0d-8110-56bd2909e8d6)
+
+Once the Data Cleaning and Data Structuring are done they will generated and stored the in the Raw Zone, Inquiry Volume folder.
 
 # **Data Protection**
 
