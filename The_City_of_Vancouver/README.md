@@ -143,6 +143,11 @@ Allows sharing results with users outside the company or a public audience
 - Based on the findings mentioned in the previous point, it is recommended that The City of Vancouver prioritize improvements and resource allocation for the phone channel in order to reduce response times and improve customer service that allows it to continue offering quality service.
 
 
+### ***Deliverables***
+- Data Analytic Platform Implementation in Amazon Web Service
+
+
+
 # **Data Wrangling**
 
 Data Wrangling performed on 311 inquiry volume Dataset
@@ -180,7 +185,13 @@ Converting a low-quality dataset into a high-quality one and preparing it to be 
 
 ![image](https://github.com/user-attachments/assets/e28f1887-3703-4f0d-8110-56bd2909e8d6)
 
-Once the Data Cleaning and Data Structuring are done they will generated and stored the in the Raw Zone, Inquiry Volume folder.
+### ***Deliverables***
+-  Dataset cleaned and structured generated and stored the in the Raw Zone, Inquiry Volume folder.
+
+![image](https://github.com/user-attachments/assets/af5ad6b2-19f5-4294-876a-d942eb0595d9)
+
+![image](https://github.com/user-attachments/assets/ae45ca1b-b053-4e41-a9f4-d18e285b366e)
+
 
 # **Data Protection**
 
