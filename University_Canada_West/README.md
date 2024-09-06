@@ -31,11 +31,13 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
    ##### **Data Storage Design in AWS**
 
-![image](https://github.com/user-attachments/assets/97dfa8fa-187c-4658-8081-13e4d6c90fc6)
+![image](https://github.com/user-attachments/assets/1aa57e15-db6f-43da-a00c-6c2eb285a2e7)
+
 
    ##### **Data Storage Design in Drawio**
 
-   ![image](https://github.com/user-attachments/assets/18b6f37f-22f8-4c4f-b67a-46fb1ecdaa6a)
+  ![image](https://github.com/user-attachments/assets/13cc9c4f-e8d8-4779-b630-f4c88d1b5326)
+
 
 #### **Data Set Preparation - Operational Environment**
 
