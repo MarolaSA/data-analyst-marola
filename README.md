@@ -66,7 +66,7 @@ The dataset contains the records of the applications made for the PLAR process f
 - Written Report Phase 1
 - Written Report Phase 2  
 
-![image](https://github.com/user-attachments/assets/4652a39a-4a78-4079-8a1b-04da63e54ccc)
+![image](https://github.com/user-attachments/assets/0c9b011f-320b-4127-b21c-bb335146ce1a)
 
 
 
