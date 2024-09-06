@@ -62,7 +62,10 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
    ##### **Data Pipeline Design**
 
-![image](https://github.com/user-attachments/assets/80f9d340-9ddf-4816-8ca5-2d02d246e847)
+![image](https://github.com/user-attachments/assets/27500bc2-d296-4b79-a675-4dcc50c16e1a)
+![image](https://github.com/user-attachments/assets/7ed5a872-6283-403b-8eee-8ce7853d9a9b)
+![image](https://github.com/user-attachments/assets/63a45c5f-0ccb-4a51-b4a0-793d5ab1f251)
+
 
 
    ##### **Data Pipeline Implementation**
