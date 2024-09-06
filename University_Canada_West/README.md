@@ -7,22 +7,20 @@ Descriptive Analysis of PLAR Requests Dataset
 
 ### ***Descriptive Analysis Description***
 
-The University Canada has a Registrar Office that manages many procedures such as the Prior Learning Assessment and Recognition Procedure, UCW-9022p.
-These inquiries are categorized into different types and are managed by other departments depending on their category.
-Currently, the 3-1-1 Contact Center receives a considerable number of inquiries, the descriptive analysis will be used to analyze the performance of the Phone channel and thus answer the question “What happens in my company?”
+The University Canada has a Registrar Office that manages many procedures such as the Prior Learning Assessment and Recognition Procedure, UCW-9022p. These requests may be approved or rejected. Nowadays, the Registrar's Office receives a significant number of PLAR requests; descriptive analysis will be used to analyse the rate of approved/success PLAR Requests.
 
 ### ***Goal***
 
-Improve the efficiency and performance of the 3-1-1 Contact Centre for attending inquiries in The City of Vancouver by analyzing the rate of inquiries received through the Phone channel so it will be possible to determine if the number of operators handling the telephone inquiries is sufficient or whether it is necessary to reassign staff or make new hires. For this purpose, a Data Pipeline will be created.
+Improve the performance of the Prior Learning Assessment and Recognition procedure of the registrar's office at UCW 
 
 ### ***Methodology***
 
 **1. Descriptive Metric Definition**
 
-   - “Records per Phone Channel Rate” has been defined considering the following formula:
-       #### *Records per Phone Channel Rate=(Number of Phone Inquiries)/(Number of Received Inquiries)*
+   - “PLAR Success Rate” has been defined considering the following formula:
+       #### *LAR Success Rate = (Number of PLAR Success Application)/(Number of PLAR Requests Application)*
 
-![image](https://github.com/user-attachments/assets/e7df1637-7ea4-4987-85bd-8542dc7b3d2e)
+![image](https://github.com/user-attachments/assets/4bfc8e3e-06c5-407b-be02-ffbdfae64bcd)
 
 
 **2. Design and Implementation**
