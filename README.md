@@ -66,6 +66,9 @@ The dataset contains the records of the applications made for the PLAR process f
 - Written Report Phase 1
 - Written Report Phase 2  
 
+![image](https://github.com/user-attachments/assets/1013df1e-607a-4c79-bfff-c77ada28c009)
+
+
 
 ## [Project 2: Data Analytic Platform for the City of Vancouver](The_City_of_Vancouver/README.md)
 
