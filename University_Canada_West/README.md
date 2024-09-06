@@ -201,7 +201,7 @@ Converting a low-quality dataset into a high-quality one and preparing it to be 
 
 # **Data Protection**
 
-Data Protection performed for the DAP of The City of Vancouver
+Data Protection performed for the DAP of The University Canada West
 
 ### ***Data Wrangling Description***
 
@@ -233,7 +233,7 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 # **Data Quality Control**
 
-Data Quality performed for the DAP of The City of Vancouver
+Data Quality performed for the DAP of The University Canada West
 
 ### ***Data Quality Control Description***
 
@@ -250,7 +250,7 @@ Define and enforce rules, through which it is determined whether the dataset pas
 
 ##### **Trusted Zone Design and Implementation**
 
-![image](https://github.com/user-attachments/assets/9c59c580-64b8-406a-8cc8-cb10868677db)
+![image](https://github.com/user-attachments/assets/59ceb58d-965d-4671-820e-45ed41b7151a)
 
 
 **2. Pipeline Implementation**
@@ -260,6 +260,11 @@ Define and enforce rules, through which it is determined whether the dataset pas
 - The Conditional Router function, two groups “pass” and “fail” are created. With the change schema, the extra columns are eliminated to have the original dataset
 
 ##### **Pipeline Implementation**
+
+![image](https://github.com/user-attachments/assets/85cc000e-e457-4ea6-b4d8-2acbb78c68a7)
+
+![image](https://github.com/user-attachments/assets/ad8f7173-0902-4f11-8af5-ad714debc89e)
+
 
 ![image](https://github.com/user-attachments/assets/08a6a578-c3db-443a-9f24-dbe7796306ec)
 
