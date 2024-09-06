@@ -167,12 +167,13 @@ Converting a low-quality dataset into a high-quality one and preparing it to be 
 ### ***Methodology***
 
 **1. Dataset Collection**
-- “PLAR Requests" will be cleaned and structured.
+- “PLAR Requests" dataset will be cleaned and structured.
 
 ##### **Dataset Collection**
 
 
-![image](https://github.com/user-attachments/assets/6b68aa9e-d202-41e6-80cd-aeba854003a5)
+![image](https://github.com/user-attachments/assets/f2751f7b-7ab1-48c3-bd63-3a96bd456fbe)
+
 
 ![image](https://github.com/user-attachments/assets/9a974b95-3c37-437b-9dd7-a36cceaa9eca)
 
@@ -188,7 +189,7 @@ Converting a low-quality dataset into a high-quality one and preparing it to be 
 ### ***Deliverables***
 -  Dataset cleaned and structured generated and stored the in the Raw Zone, PLAR Requests folder.
 
-![image](https://github.com/user-attachments/assets/24b29b18-f97d-46b1-b0b4-98c7cf0b30fd)
+![image](https://github.com/user-attachments/assets/f238fc55-6753-4741-aaa8-deb4294ac411)
 
 ![image](https://github.com/user-attachments/assets/9f1e82f2-97db-41e0-a33c-638c1ffd568c)
 
@@ -216,7 +217,7 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 ##### **User Management, Encryption and Decryption**
 
-![image](https://github.com/user-attachments/assets/7ba28f20-924a-42a4-8f4b-2c344f7f4fc1)
+![image](https://github.com/user-attachments/assets/1afff7ac-165a-4c52-b6ff-6dcb2ef4048c)
 
 ![image](https://github.com/user-attachments/assets/8fa705d2-dede-4c4b-b9fe-81f3b60cb688)
 
@@ -246,7 +247,9 @@ Define and enforce rules, through which it is determined whether the dataset pas
 
 ##### **Trusted Zone Design and Implementation**
 
-![image](https://github.com/user-attachments/assets/59ceb58d-965d-4671-820e-45ed41b7151a)
+![image](https://github.com/user-attachments/assets/8d36cf77-bfc5-4b88-938b-2d72d64ceec6)
+
+![image](https://github.com/user-attachments/assets/b55b570c-7067-4dbc-a53f-dccc6d181c2d)
 
 
 **2. Pipeline Implementation**
