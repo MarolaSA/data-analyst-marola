@@ -7,7 +7,7 @@ Descriptive Analysis of PLAR Requests Dataset
 
 ### ***Descriptive Analysis Description***
 
-The University Canada has a Registrar Office that manages many procedures such as the Prior Learning Assessment and Recognition Procedure - UCW-9022p.
+The University Canada has a Registrar Office that manages many procedures such as the Prior Learning Assessment and Recognition Procedure, UCW-9022p.
 These inquiries are categorized into different types and are managed by other departments depending on their category.
 Currently, the 3-1-1 Contact Center receives a considerable number of inquiries, the descriptive analysis will be used to analyze the performance of the Phone channel and thus answer the question “What happens in my company?”
 
