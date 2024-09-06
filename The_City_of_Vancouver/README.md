@@ -156,7 +156,7 @@ Data Wrangling performed on 311 inquiry volume Dataset
 
 ### ***Data Wrangling Description***
 
-For this purpose, the Glue Databrew AWS service will be used to prepare the dataset.; 
+For this purpose, the Glue Databrew AWS service will be used to prepare the dataset. 
 
 ### ***Goal***
 
@@ -215,7 +215,7 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 **2. Encryption and Decryption**
 - For this purpose, the Key Management Service (KMS) AWS Service was used.
 
-##### **User Management, Encryption and Decryption **
+##### **User Management, Encryption and Decryption**
 
 ![image](https://github.com/user-attachments/assets/045f07bb-7cdf-4996-9ffb-b833da88f9fa)
 
