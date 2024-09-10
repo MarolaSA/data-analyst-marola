@@ -1,5 +1,5 @@
 
-# <font color="green">***Data Quality Control***</font> 
+# <font color="green">Data Quality Control</font> 
 
 Data Quality performed for the DAP of The University Canada West
 
