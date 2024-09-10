@@ -1,5 +1,4 @@
-
-# ***Data Protection***
+# <font color="green">***Data Protection***</font> 
 
 Data Protection performed for the DAP of The University Canada West
 
