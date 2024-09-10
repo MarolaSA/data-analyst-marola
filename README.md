@@ -4,13 +4,46 @@ Different types of analysis carried out for the two projects are detailed below:
 - Data Analytic Platform for the ***University Canada West***
 - Data Analytic Platform for the ***City of Vancouver***
  
-## [Project 1: Data Analytic Platform for the University Canada West](University_Canada_West/README.md)
+## Project 1: Data Analytic Platform for the University Canada West
 
 ### *Background:*
 The University Canada West is an Educational Institution focused on providing high-quality eduction for which gathering, collecting and storing information generated from it operational activities is essential to obtain statistics. However, all this data needs to be processed in order to obtain valuable insights that allow the UCW to maintain its high-quality education.
 
 ### *Goal:*
 Improve the performance of the Prior Learning Assessment and Recognition procedure of the registrar's office at UCW
+
+### *Analysis Performed:*
+
+#### ***[Descriptive Analysis](University_Canada_West/README.md)***
+##### *Tools and Technologies*
+  - All Design, *Draw.io*
+  - Implementation, *Amazon Web Services*
+   - For Data discovery, tools such as *Athena and AWS Glue Data Catalog*, can be used to explore in more detailed data
+   - For Data Storage and Ingestion, *S3*
+   - For Data Pipeline Implementation and Descriptive Analysis and Metrics Result, *AWS Glue*
+   - For Data Analysis, *Athena*
+   - For Data Visualization, *Excel* or *Amazon Quicksight*
+   - For Data Publishing, *EC2*
+   - For Data Monitoring, *CloudWatch*
+#### ***Data Wrangling***
+##### *Tools and Technologies*
+- All Design, *Draw.io*
+- Implementation, *Amazon Web Services*
+  - For Data Cleaning, *Glue Databrew, Grid*
+  - For Data Structuring, *Glue Databrew, Schema*
+
+#### ***Data Protection***
+##### *Tools and Technologies*
+- All Design, *Draw.io*
+- Implementation, *Amazon Web Services*
+  - For User Management, *Identity Access Management (IAM)*
+  - For encryption and decryption, *Key Management Service (KMS)*
+
+#### ***Data Quality Control***
+##### *Tools and Technologies*
+- All Design, *Draw.io*
+- Implementation, *Amazon Web Services*
+   - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage, S3*
 
 ### *Dataset:*
 The dataset contains the records of the applications made for the PLAR process for the years 2024 and 2023. The fields contained in this dataset are detailed below:
@@ -26,39 +59,6 @@ The dataset contains the records of the applications made for the PLAR process f
 - *Credits Granted:* Number of academic credits that have been approved or awarded
 - *Evaluation Status:* Current status of the course or credit request evaluation
 - *Decision Date:* The date of the final decision was made
-
-### *Analysis Performed:*
-- *Descriptive Analysis*
-- *Data Wrangling*
-- *Data Protection*
-- *Data Quality Control*
-
-### *Tools and Technologies*
-
-#### Descriptive Analysis
-- All Design, *Draw.io*
-- Implementation, *Amazon Web Services*
-  - For Data discovery, tools such as *Athena and AWS Glue Data Catalog*, can be used to explore in more detailed data
-  - For Data Storage and Ingestion, *S3*
-  - For Data Pipeline Implementation and Descriptive Analysis and Metrics Result, *AWS Glue*
-  - For Data Analysis, *Athena*
-  - For Data Visualization, *Excel* or *Amazon Quicksight*
-  - For Data Publishing, *EC2*
-  - For Data Monitoring, *CloudWatch*
- 
-#### Data Wrangling    
-- Implementation, *Amazon Web Services*
-  - For Data Cleaning, *Glue Databrew, Grid*
-  - For Data Structuring, *Glue Databrew, Schema*
-
-#### Data Protection
-- Implementation, *Amazon Web Services*
-  - For User Management, *Identity Access Management (IAM)*
-  - For encryption and decryption, *Key Management Service (KMS)*
-
-#### Data Quality Control
-- Implementation, *Amazon Web Services*
-   - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage, S3*
 
 ### *Deliverables*
 - Drawiou Design
