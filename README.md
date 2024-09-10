@@ -1,10 +1,10 @@
-# <font color="green">Projects</font>
+# <font color="red">Projects</font>
 
 Different types of analysis carried out for the two projects are detailed below:
 - Data Analytic Platform for the ***University Canada West***
 - Data Analytic Platform for the ***City of Vancouver***
  
-## Project 1: Data Analytic Platform for the University Canada West
+## <font color="green">Project 1: Data Analytic Platform for the University Canada West</font>
 
 ### *Background:*
 The University Canada West is an Educational Institution focused on providing high-quality eduction for which gathering, collecting and storing information generated from it operational activities is essential to obtain statistics. However, all this data needs to be processed in order to obtain valuable insights that allow the UCW to maintain its high-quality education.
@@ -25,21 +25,21 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
    - For Data Visualization, *Excel* or *Amazon Quicksight*
    - For Data Publishing, *EC2*
    - For Data Monitoring, *CloudWatch*
-#### ***Data Wrangling***
+#### ***[Data Wrangling](University_Canada_West/Data_Wrangling.md)***
 ##### *Tools and Technologies*
 - All Design, *Draw.io*
 - Implementation, *Amazon Web Services*
   - For Data Cleaning, *Glue Databrew, Grid*
   - For Data Structuring, *Glue Databrew, Schema*
 
-#### ***Data Protection***
+#### ***[Data Protection](University_Canada_West/Data_Protection.md)***
 ##### *Tools and Technologies*
 - All Design, *Draw.io*
 - Implementation, *Amazon Web Services*
   - For User Management, *Identity Access Management (IAM)*
   - For encryption and decryption, *Key Management Service (KMS)*
 
-#### ***Data Quality Control***
+#### ***[Data Quality Control](University_Canada_West/Data_Quality_Control.md)***
 ##### *Tools and Technologies*
 - All Design, *Draw.io*
 - Implementation, *Amazon Web Services*
