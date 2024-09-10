@@ -91,6 +91,7 @@ Improve the efficiency and performance of the 3-1-1 Contact Centre for attending
    - For Data Visualization, *Excel* or *Amazon Quicksight*
    - For Data Publishing, *EC2*
    - For Data Monitoring, *CloudWatch*
+
 #### ***[Project 2.2: Data Wrangling](The_City_of_Vancouver/DWVC.md)***
 ##### *Tools and Technologies*
 - All Design, *Draw.io*
