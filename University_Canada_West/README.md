@@ -16,7 +16,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 **1. Descriptive Metric Definition**
 
    - “PLAR Success Rate” has been defined considering the following formula:
-       #### *PLAR Success Rate = (Number of PLAR Success Application)/(Number of PLAR Requests Application)*
+       #### PLAR Success Rate = (Number of PLAR Success Application)/(Number of PLAR Requests Application)
 
 ![image](https://github.com/user-attachments/assets/4bfc8e3e-06c5-407b-be02-ffbdfae64bcd)
 
