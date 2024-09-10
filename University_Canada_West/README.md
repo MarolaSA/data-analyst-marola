@@ -27,12 +27,12 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
   - For the data storage design, the S3 AWS service will be accessed through which a bucket will be created.
   - The bucket is a contain object that is flexible, durable, accessible from everywhere, and that has no capacity limit
 
- ##### **Data Storage Design in AWS**
+**Data Storage Design in AWS**
 
 ![image](https://github.com/user-attachments/assets/1aa57e15-db6f-43da-a00c-6c2eb285a2e7)
 
 
- ##### **Data Storage Design in Drawio**
+**Data Storage Design in Drawio**
 
   ![image](https://github.com/user-attachments/assets/8357cf0c-eb31-4e97-ba52-d81a0872946b)
 
