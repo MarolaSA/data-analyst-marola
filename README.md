@@ -25,14 +25,14 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
    - For Data Visualization, *Excel* or *Amazon Quicksight*
    - For Data Publishing, *EC2*
    - For Data Monitoring, *CloudWatch*
-#### ***[Project 1.2: Data Wrangling](University_Canada_West/DW.md)***
+#### ***[Project 1.2: Data Wrangling](University_Canada_West/DW)***
 ##### *Tools and Technologies*
 - All Design, *Draw.io*
 - Implementation, *Amazon Web Services*
   - For Data Cleaning, *Glue Databrew, Grid*
   - For Data Structuring, *Glue Databrew, Schema*
 
-#### ***[Project 1.3: Data Protection](University_Canada_West/DP.md)***
+#### ***[Project 1.3: Data Protection](University_Canada_West/DP)***
 ##### *Tools and Technologies*
 - All Design, *Draw.io*
 - Implementation, *Amazon Web Services*
