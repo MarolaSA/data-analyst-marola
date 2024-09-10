@@ -25,6 +25,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
    - For Data Visualization, *Excel* or *Amazon Quicksight*
    - For Data Publishing, *EC2*
    - For Data Monitoring, *CloudWatch*
+
 #### ***[Project 1.2: Data Wrangling](University_Canada_West/DWUCW.md)***
 ##### *Tools and Technologies*
 - All Design, *Draw.io*
