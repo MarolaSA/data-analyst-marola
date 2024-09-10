@@ -69,13 +69,46 @@ The dataset contains the records of the applications made for the PLAR process f
 
 
 
-## [Project 2: Data Analytic Platform for the City of Vancouver](The_City_of_Vancouver/README.md)
+## <font color="blue">Project 2: Data Analytic Platform for the City of Vancouver</font>
 
 ### *Background:*
 The City of Vancouver has generated, collected and stored information from urban management that it has been carrying out during the last years to record its operational activities and obtain statistics. However, this data should be processed to obtain structured data by which the City of Vancouver can obtain valuable insight for improving the urban management and providing a high-quality service. 
 
 ### *Goal:*
 Improve the efficiency and performance of the 3-1-1 Contact Centre for attending inquiries in The City of Vancouver by analyzing the rate of inquiries received through the Phone channel.
+
+### *Analysis Performed:*
+
+#### ***[Project 2.1: Descriptive Analysis](The_City_of_Vancouver/README.md)***
+##### *Tools and Technologies*
+  - All Design, *Draw.io*
+  - Implementation, *Amazon Web Services*
+   - For Data discovery, tools such as *Athena and AWS Glue Data Catalog*, can be used to explore in more detailed data
+   - For Data Storage and Ingestion, *S3*
+   - For Data Pipeline Implementation and Descriptive Analysis and Metrics Result, *AWS Glue*
+   - For Data Analysis, *Athena*
+   - For Data Visualization, *Excel* or *Amazon Quicksight*
+   - For Data Publishing, *EC2*
+   - For Data Monitoring, *CloudWatch*
+#### ***[Project 2.2: Data Wrangling](The_City_of_Vancouver/DWVC.md)***
+##### *Tools and Technologies*
+- All Design, *Draw.io*
+- Implementation, *Amazon Web Services*
+  - For Data Cleaning, *Glue Databrew, Grid*
+  - For Data Structuring, *Glue Databrew, Schema*
+
+#### ***[Project 2.3: Data Protection](The_City_of_Vancouver/DPVC.md)***
+##### *Tools and Technologies*
+- All Design, *Draw.io*
+- Implementation, *Amazon Web Services*
+  - For User Management, *Identity Access Management (IAM)*
+  - For encryption and decryption, *Key Management Service (KMS)*
+
+#### ***[Project 2.4: Data Quality Control](The_City_of_Vancouver/DQCVC.md)***
+##### *Tools and Technologies*
+- All Design, *Draw.io*
+- Implementation, *Amazon Web Services*
+   - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage, S3*
 
 ### *Dataset:*
 The dataset contains the records of the inquiries that were received in the 311 contact center for the years 2024 and 2023. The fields contained in this dataset are detailed below:
@@ -86,39 +119,6 @@ The dataset contains the records of the inquiries that were received in the 311 
 - *Channel:* Type of channel through which the inquiry was received
 - *Number of Records:* Number of inquiries that were received by a specific channel
 - *BI_ID:* Unique Identification for each inquiry
-
-### *Analysis Performed:*
-- *Descriptive Analysis*
-- *Data Wrangling*
-- *Data Protection*
-- *Data Quality Control*
-
-### *Tools and Technologies*
-
-#### Descriptive Analysis
-- All Design, *Draw.io*
-- Implementation, *Amazon Web Services*
-  - For Data discovery, tools such as *Athena and AWS Glue Data Catalog*, can be used to explore in more detailed data
-  - For Data Storage and Ingestion, *S3*
-  - For Data Pipeline Implementation and Descriptive Analysis and Metrics Result, *AWS Glue*
-  - For Data Analysis, *Athena*
-  - For Data Visualization, *Excel* or *Amazon Quicksight*
-  - For Data Publishing, *EC2*
-  - For Data monitoring, *CloudWatch*
- 
-#### Data Wrangling    
-- Implementation, *Amazon Web Services*
-  - For Data Cleaning, *Glue Databrew, Grid*
-  - For Data Structuring, *Glue Databrew, Schema*
-
-#### Data Protection
-- Implementation, *Amazon Web Services*
-  - For User Management, *Identity Access Management (IAM)*
-  - For encryption and decryption, *Key Management Service (KMS)*
-
-#### Data Quality Control
-- Implementation, *Amazon Web Services*
-   - For Data Quality and Data Privacy, *AWS Glue Service and Trusted Zone Storage, S3*
 
 ### *Deliverables*
 - Drawiou Design
