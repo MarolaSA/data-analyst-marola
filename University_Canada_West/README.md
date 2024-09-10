@@ -27,12 +27,12 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
   - For the data storage design, the S3 AWS service will be accessed through which a bucket will be created.
   - The bucket is a contain object that is flexible, durable, accessible from everywhere, and that has no capacity limit
 
-   ##### **Data Storage Design in AWS**
+ ##### **Data Storage Design in AWS**
 
 ![image](https://github.com/user-attachments/assets/1aa57e15-db6f-43da-a00c-6c2eb285a2e7)
 
 
-   ##### **Data Storage Design in Drawio**
+ ##### **Data Storage Design in Drawio**
 
   ![image](https://github.com/user-attachments/assets/8357cf0c-eb31-4e97-ba52-d81a0872946b)
 
@@ -42,7 +42,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
   - The dataset “PLAR Request" will be used, it has a total of 11 column names (headers) and 50 rows (data items).
   - To perform data ingestion, uploading data is required. In this case, the file “PLAR Requests” have been uploaded.
 
-   ##### **Dataset Preparation and Data Ingestion**
+##### **Dataset Preparation and Data Ingestion**
 
 ![image](https://github.com/user-attachments/assets/f2751f7b-7ab1-48c3-bd63-3a96bd456fbe)
 
@@ -55,7 +55,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
   - For the descriptive metric PLAR Success Rate Data pipeline design, a linear data diagram has been developed in Draw.io; where the datasets are represented by tables and the processes are represented by circles. For the design, the backward design has been used, in which the operational dataset is located at the bottom and the summarized data is located at the top.
   - To implement the ETL pipeline for the descriptive metric PLAR Success Rate, the diagram design made in Drawio has been taken as a reference since it will show clearly in detail the available information, the information needed, and the actions that should be executed to obtain the metric we want to analyze
 
-   ##### **Data Pipeline Design**
+##### **Data Pipeline Design**
 
 ![image](https://github.com/user-attachments/assets/27500bc2-d296-4b79-a675-4dcc50c16e1a)
 ![image](https://github.com/user-attachments/assets/7ed5a872-6283-403b-8eee-8ce7853d9a9b)
@@ -63,7 +63,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 
 
-   ##### **Data Pipeline Implementation**
+##### **Data Pipeline Implementation**
 
 ![image](https://github.com/user-attachments/assets/3d44c10e-0721-46de-aa1e-83fbd3a98650)
 
