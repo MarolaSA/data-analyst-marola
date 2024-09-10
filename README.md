@@ -39,7 +39,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
   - For User Management, *Identity Access Management (IAM)*
   - For encryption and decryption, *Key Management Service (KMS)*
 
-#### ***[Project 1.4: Data Quality Control](University_Canada_West/DQC.md)***
+#### ***[Project 1.4: Data Quality Control](University_Canada_West/READMEDQC.md)***
 ##### *Tools and Technologies*
 - All Design, *Draw.io*
 - Implementation, *Amazon Web Services*
