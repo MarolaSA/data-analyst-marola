@@ -1,5 +1,5 @@
 
-# <font color="green">***Data Protection***</font> 
+# <font color="green">Data Protection</font> 
 
 Data Protection performed for the DAP of The City of Vancouver
 
