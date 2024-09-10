@@ -1,4 +1,4 @@
-# <font color="red">Projects</font>
+# <font color="green">Projects</font>
 
 Different types of analysis carried out for the two projects are detailed below:
 - Data Analytic Platform for the ***University Canada West***
