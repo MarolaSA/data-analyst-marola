@@ -42,7 +42,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
   - The dataset “PLAR Request" will be used, it has a total of 11 column names (headers) and 50 rows (data items).
   - To perform data ingestion, uploading data is required. In this case, the file “PLAR Requests” have been uploaded.
 
-##### **Dataset Preparation and Data Ingestion**
+**Dataset Preparation and Data Ingestion**
 
 ![image](https://github.com/user-attachments/assets/f2751f7b-7ab1-48c3-bd63-3a96bd456fbe)
 
@@ -55,7 +55,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
   - For the descriptive metric PLAR Success Rate Data pipeline design, a linear data diagram has been developed in Draw.io; where the datasets are represented by tables and the processes are represented by circles. For the design, the backward design has been used, in which the operational dataset is located at the bottom and the summarized data is located at the top.
   - To implement the ETL pipeline for the descriptive metric PLAR Success Rate, the diagram design made in Drawio has been taken as a reference since it will show clearly in detail the available information, the information needed, and the actions that should be executed to obtain the metric we want to analyze
 
-##### **Data Pipeline Design**
+**Data Pipeline Design**
 
 ![image](https://github.com/user-attachments/assets/27500bc2-d296-4b79-a675-4dcc50c16e1a)
 ![image](https://github.com/user-attachments/assets/7ed5a872-6283-403b-8eee-8ce7853d9a9b)
@@ -63,7 +63,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 
 
-##### **Data Pipeline Implementation**
+**Data Pipeline Implementation**
 
 ![image](https://github.com/user-attachments/assets/3d44c10e-0721-46de-aa1e-83fbd3a98650)
 
@@ -72,7 +72,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 - Finally, as a result of the pipeline, the results for the initially defined metrics were obtained.
 
-##### **Descriptive Analysis and Metrics Result**
+**Descriptive Analysis and Metrics Result**
 
 ![image](https://github.com/user-attachments/assets/150fee10-fb09-4b1d-acd1-fc0751fad765)
 
@@ -81,7 +81,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 - The data analysis process involves three tasks: review, understand and explore data. Data exploration will be performed by using SQL. 
 
-##### **Data Analysis**
+**Data Analysis**
 
 ![image](https://github.com/user-attachments/assets/78f3ca28-20b5-441f-8719-3e336b8d8e16)
 
@@ -93,7 +93,7 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 - With the content and structure ready, one way to present the results is to visualize the information and create a dashboard. The AWS service that allows visualizing the information is Amazon Quicksight, but for this case, the excel tool will be used to visualize the data.
 
-##### **Data Visualization**
+**Data Visualization**
 
 ![image](https://github.com/user-attachments/assets/da7bbe46-af4c-4e2c-886c-84afe4cbfb09)
 
@@ -102,14 +102,14 @@ Improve the performance of the Prior Learning Assessment and Recognition procedu
 
 - For data publishing, two servers were configured, one to share and show information internally and another to show information to external users.
 
-##### **Data Publishing via General Server**
+**Data Publishing via General Server**
 
 Allows sharing resources with other users of the same company
 
 ![image](https://github.com/user-attachments/assets/75f9c681-089b-44b1-a908-25c095df87bd)
 
 
-##### **Data Publishing via Web Server**
+**Data Publishing via Web Server**
 
 Allows sharing results with users outside the company or a public audience
 
@@ -123,12 +123,12 @@ Allows sharing results with users outside the company or a public audience
 - It should be noted that some metrics can generate time series data, this can be verified when the observation is performed. If the time series is continuous, then there is a stream of data. The stream data needs analysis and immediate attention.
 - Resources that have been monitored are S3, estimated charge and objects; the AWS Glue resource usage; and an alarm has been configured, and a threshold has been defined to monitor the estimated charge.
 
-##### **Monitoring Resources**
+**Monitoring Resources**
 
 ![image](https://github.com/user-attachments/assets/7089c458-81b5-433c-8fb8-81fc02ff27c7)
 
 
-##### **Trancking Users**
+**Trancking Users**
 
 ![image](https://github.com/user-attachments/assets/b56c329e-6480-4838-8044-791ff9b49a9f)
 
