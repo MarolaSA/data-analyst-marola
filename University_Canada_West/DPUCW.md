@@ -17,6 +17,7 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 ##### **Identity Access Management, User Management**
 
+![image](https://github.com/user-attachments/assets/df269410-3513-4c2d-abab-3b5a66f79055)
 
 **2. Encryption and Decryption**
 - For this purpose, the Key Management Service (KMS) AWS Service was used.
