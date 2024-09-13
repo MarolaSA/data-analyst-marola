@@ -9,14 +9,14 @@ Ensure data quality and data privacy by using AWS Glue Service and Trusted Zone,
 
 ### ***Goal***
 
-Define and enforce rules, through which it is determined whether the dataset passes or fails the rules, if the dataset passes will be stored in the Trusted Zone.
+Implement a ETL to define, configure, and enforce rules, through which it is determined whether the dataset passes or fails the rules, if the dataset passes will be stored in the Trusted Zone.
 
 ### ***Methodology***
 
 **1. Trusted Zone Design and Implementation**
 -  Design and implementation of the Trusted Zone to stored the dataset tha pass the quality control.
 
-##### **Trusted Zone Design and Implementation**
+##### **Trusted Zone Design in Drawio**
 
 ![image](https://github.com/user-attachments/assets/9c59c580-64b8-406a-8cc8-cb10868677db)
 
@@ -26,16 +26,20 @@ Define and enforce rules, through which it is determined whether the dataset pas
 - Privacy is prioritized, for which the Detect Sensitive Data function will be used in the transform section.
 - The Evaluate data quality function will be used to assess the quality of the dataset, and for this purpose, the “inquirychannel” field has been chosen, and a threshold greater than 0.95 was established.
 - The Conditional Router function, two groups “pass” and “fail” are created. With the change schema, the extra columns are eliminated to have the original dataset
+- The final dataset will be stored in the Trusted Zone.
 
 ##### **Pipeline Implementation**
 
 ![image](https://github.com/user-attachments/assets/08a6a578-c3db-443a-9f24-dbe7796306ec)
 
+##### **Dataset Stored in the Trusted Zone** 
+
 ![image](https://github.com/user-attachments/assets/5a5be29b-fae5-4a4f-9b47-748b922035cc)
 
 
 ### ***Deliverables***
--  Dataset with quality control implemented by ensuaring 0.95 in the "inquirychannel" field.
+-  Dataset stored in the Trust Zone with quality control implemented by ensuaring 0.95 in the "inquirychannel" field.
+  
 
   
 
