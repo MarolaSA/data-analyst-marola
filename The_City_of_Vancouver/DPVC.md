@@ -23,7 +23,7 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 **2. Encryption and Decryption**
 - For this purpose, the Key Management Service (KMS) AWS Service was used.
-- A key will be created for symmetric (uses the same key for encryption and decryption). Asymmetric have different keys for encryption and decryption. For this case, the key “311contactcenter-inquiry-key-marola” has been created and the role LabRole has been assigned to it
+- A key will be created for symmetric (uses the same key for encryption and decryption). Asymmetric have different keys for encryption and decryption. For this case, the key “311contactcenter-inquiry-key-marola” has been created and the role LabRole has been assigned to it.
 
 ##### **Key Management Service, drawio**
 
