@@ -34,6 +34,8 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 ##### **Encryption for registraroffice-plar-marola Bucket**
 
+The bucket will be encrypted, which means that landing, raw, curated, trusted zone, and any dataset stored in the bucket will be encrypted. In addition, any dataset downloaded from the bucket will need the key to be decrypted.
+
 ![image](https://github.com/user-attachments/assets/e409c649-4906-49f0-88ef-ea52c07bd033)
 
 
