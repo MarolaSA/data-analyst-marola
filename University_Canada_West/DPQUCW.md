@@ -37,4 +37,4 @@ Implement an ETL to define, configure, and enforce rules, through which it is de
 
 
 ### ***Deliverables***
-- Dataset stored in the Trust Zone with quality control implemented by ensuaring 0.95 in the "inquirychannel" field.
+- Dataset stored in the Trust Zone with quality control implemented by ensuaring 0.95 in the "aplications" field.
