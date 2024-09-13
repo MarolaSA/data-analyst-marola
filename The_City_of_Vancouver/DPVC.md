@@ -27,7 +27,8 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 ##### **Key Management Service, drawio**
 
-![image](https://github.com/user-attachments/assets/045f07bb-7cdf-4996-9ffb-b833da88f9fa)
+![image](https://github.com/user-attachments/assets/861c408c-60f2-48a3-a0f6-ab0bb5328a7f)
+
 
 ##### **Key Creation**
 
