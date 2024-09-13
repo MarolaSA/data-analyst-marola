@@ -19,7 +19,7 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 ##### **User Management, Encryption and Decryption**
 
-![image](https://github.com/user-attachments/assets/1afff7ac-165a-4c52-b6ff-6dcb2ef4048c)
+![image](https://github.com/user-attachments/assets/7052277a-08c5-408a-bcf9-de2b1a75a206)
 
 ![image](https://github.com/user-attachments/assets/8fa705d2-dede-4c4b-b9fe-81f3b60cb688)
 
