@@ -14,17 +14,38 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 **1. User Management**
 - For this purpose, the Identity Access Management (IAM) AWS Service was used.
+- Following are the roles, the policies (permissions) that are currently available
+
+##### **Identity Access Management, User Management**
+
+![image](https://github.com/user-attachments/assets/df269410-3513-4c2d-abab-3b5a66f79055)
+
 
 **2. Encryption and Decryption**
 - For this purpose, the Key Management Service (KMS) AWS Service was used.
+- A key will be created for symmetric (uses the same key for encryption and decryption). Asymmetric have different keys for encryption and decryption. For this case, the key “311contactcenter-inquiry-key-marola” has been created and the role LabRole has been assigned to it
 
-##### **User Management, Encryption and Decryption**
+##### **Key Management Service, drawio**
 
 ![image](https://github.com/user-attachments/assets/045f07bb-7cdf-4996-9ffb-b833da88f9fa)
 
+##### **Key Creation**
+
 ![image](https://github.com/user-attachments/assets/8fa705d2-dede-4c4b-b9fe-81f3b60cb688)
 
-![image](https://github.com/user-attachments/assets/ed10daf9-8f0e-414c-ae7f-da0bdc5343b9)
+##### **Encryption for 311contactcentre-inquiry-marola Bucket**
+
+![image](https://github.com/user-attachments/assets/513bd764-597b-4857-83ac-ac1563e6bcc6)
+
+
+##### **Encryption for Landing Zone**
+
+##### **Encryption for Raw Zone**
+
+##### **Encryption for Trusted Zone**
 
 ### ***Deliverables***
 -  Confidentiality, integrity, and availability protection implemented.
+-  Bucket encrypted
+-  Landing, Raw, and Trusted encrypted
+  
