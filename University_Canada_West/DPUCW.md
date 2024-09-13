@@ -20,18 +20,18 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 **2. Encryption and Decryption**
 - For this purpose, the Key Management Service (KMS) AWS Service was used.
-- A key will be created for symmetric (uses the same key for encryption and decryption). Asymmetric have different keys for encryption and decryption. For this case, the key “311contactcenter-inquiry-key-marola” has been created and the role LabRole has been assigned to it.
+- A key will be created for symmetric (uses the same key for encryption and decryption). Asymmetric have different keys for encryption and decryption. For this case, the key “registraroffice-plar-key-marola” has been created and the role LabRole has been assigned to it.
 
 ##### **Key Management Service, drawio**
 
-![image](https://github.com/user-attachments/assets/861c408c-60f2-48a3-a0f6-ab0bb5328a7f)
+![image](https://github.com/user-attachments/assets/7052277a-08c5-408a-bcf9-de2b1a75a206)
 
 
 ##### **Key Creation**
 
 ![image](https://github.com/user-attachments/assets/8fa705d2-dede-4c4b-b9fe-81f3b60cb688)
 
-##### **Encryption for 311contactcentre-inquiry-marola Bucket**
+##### **Encryption for registraroffice-plar-marola Bucket**
 
 ![image](https://github.com/user-attachments/assets/513bd764-597b-4857-83ac-ac1563e6bcc6)
 
