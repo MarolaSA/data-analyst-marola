@@ -37,29 +37,7 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 ![image](https://github.com/user-attachments/assets/e409c649-4906-49f0-88ef-ea52c07bd033)
 
 
-##### **Encryption for Landing Zone**
-
-##### **Encryption for Raw Zone**
-
-##### **Encryption for Trusted Zone**
-
 ### ***Deliverables***
 -  Confidentiality, integrity, and availability protection implemented.
 -  Bucket encrypted
--  Landing, Raw, and Trusted encrypted
-
-========
-
-
-##### **User Management, Encryption and Decryption**
-
-![image](https://github.com/user-attachments/assets/7052277a-08c5-408a-bcf9-de2b1a75a206)
-
-![image](https://github.com/user-attachments/assets/8fa705d2-dede-4c4b-b9fe-81f3b60cb688)
-
-![image](https://github.com/user-attachments/assets/7e2554a2-4238-405e-b88d-8e1b0c192a1d)
-
-
-### ***Deliverables***
--  Confidentiality, integrity, and availability protection implemented.
 
