@@ -34,7 +34,7 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 ##### **Encryption for registraroffice-plar-marola Bucket**
 
-![image](https://github.com/user-attachments/assets/513bd764-597b-4857-83ac-ac1563e6bcc6)
+![image](https://github.com/user-attachments/assets/e409c649-4906-49f0-88ef-ea52c07bd033)
 
 
 ##### **Encryption for Landing Zone**
