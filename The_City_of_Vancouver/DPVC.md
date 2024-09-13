@@ -36,6 +36,8 @@ To avoid confidentiality, integrity, and availability problems, we should implem
 
 ##### **Encryption for 311contactcentre-inquiry-marola Bucket**
 
+The bucket will be encrypted, which means that landing, raw, curated, trusted zone, and any dataset stored in the bucket will be encrypted. In addition, any dataset downloaded from the bucket will need the key to be decrypted.
+
 ![image](https://github.com/user-attachments/assets/513bd764-597b-4857-83ac-ac1563e6bcc6)
 
 
